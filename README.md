@@ -14,7 +14,7 @@
 - 📚 **B.S. Electrical & Computer Engineering**, Rutgers · Dean’s List.  
 - 🛠 **AI/ML Fellow @ Cornell Tech** & **Research Engineering Intern @ Algoverse** — publishing LLM research to cut hallucination rates.  
 - 🕌 Part-time **Volunteer Imam**; leading hundreds of congregants taught me clear communication & calm leadership.  
-- 🎮 **Fun fact:** I 100 %-completed the entire *Batman Arkham* series!
+- 🎮 **Fun fact:** I 100%-completed the entire *Batman Arkham* series!
 
 <!-- ────────────────────────────────────────── TECH STACK ────────────────────────────────────── -->
 ### 🛠 Tech Stack
