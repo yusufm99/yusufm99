@@ -33,15 +33,15 @@
   <tr>
     <!-- Thumbnail cell now shows a large 💵 emoji -->
     <td width="50%" align="center">
-  <!-- stack-of-dollar-bills emoji as an SVG image -->
-  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4b5.svg"
-       width="120px" alt="Money emoji">
-</td>
+      <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4b5.svg"
+           width="120px" alt="Money emoji">
+    </td>
     <td>
-      <strong>Goal:</strong> Predict whether individuals earn &gt;$50 K using the 1994 UCI Adult dataset.<br>
-      <strong>Highlights:</strong> end-to-end pipeline · top-50 feature selection · <em>LogReg 84.2 % acc</em> · fairness audit.<br>
-      <strong>Stack:</strong> Python · pandas · scikit-learn · TensorFlow/Keras.<br>
-      👉&nbsp;<a href="https://github.com/yusufm99/ML-Prediction-Assignment" target="_blank">Repository &amp; README</a>
+      <strong>Goal:</strong> Build an end-to-end pipeline to predict whether an individual earns <b>&gt;$50K/year</b> using the 1994 UCI Adult Census dataset.<br>
+      <strong>Workflow:</strong> Data cleaning, feature engineering, top-20 selection via mutual information, and model comparison across <b>Logistic Regression, Random Forest, Gradient Boosting, and Stacking Ensemble</b>.<br>
+      <strong>Results:</strong> <b>Stacking Ensemble</b> achieved <b>87.4%</b> accuracy; all models analyzed for fairness across sex and race.<br>
+      <strong>Stack:</strong> Python 3.11 · pandas · scikit-learn · Matplotlib · Seaborn.<br>
+      👉&nbsp;<a href="https://github.com/yusufm99/ML-Prediction-Assignment" target="_blank">Repository &amp; Full Project README</a>
     </td>
   </tr>
 </table>
