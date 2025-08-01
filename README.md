@@ -53,7 +53,7 @@
 | Project | What it is | Status |
 |---------|------------|--------|
 | **WRAG Pipeline** | Weighted Retrieval-Augmented Generation framework that re-weights docs via probe agreement & diversity heuristics. | 🔒 Private (research in progress) |
-| **Coming soon** | *Third ML/AI repo to push public* | 🚧 |
+| **Coming soon** | *Fall AI Studio to be added* | 🚧 |
 
 <!-- ───────────────────────────────────── STATS & TROPHIES ───────────────────────────────────── -->
 ### 📊 GitHub Stats
