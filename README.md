@@ -6,7 +6,7 @@
 
 <p align="center">
   <!-- TODO: replace with your head-shot URL -->
-  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="140" style="border-radius:50%" alt="Yusuf Mohammed head-shot">
+  <img src="GitHub pfp.jpg" width="250" style="border-radius:50%" alt="Yusuf Mohammed head-shot">
 </p>
 
 <!-- ────────────────────────────────────────── ABOUT ────────────────────────────────────────── -->
