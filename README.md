@@ -61,10 +61,10 @@
 ### 🌍 Open-Source Engagement
 | Area | Highlights |
 |------|------------|
-| **Recent PRs** | *(in progress – will list merged PR links here)* |
-| **Issues & Discussions** | *(in progress – add first external discussion link)* |
+| **Recent PRs** | *(in progress)* |
+| **Issues & Discussions** | *(in progress)* |
 | **Starred / Watching** | ![Stars](https://img.shields.io/github/stars/yusufm99?style=social) — Pinecone, Neo4j, LangChain, Hugging Face 🤗 |
-| **Contributor Summary** | *Loading… available when enough public contributions are indexed* |
+| **Contributor Summary** | *(in progress)* |
 
 > *Rows auto-update as I merge PRs, open issues, and star repos.*
 
