@@ -64,7 +64,7 @@
 | **Recent PRs** | *(in progress – will list merged PR links here)* |
 | **Issues & Discussions** | *(in progress – add first external discussion link)* |
 | **Starred / Watching** | ![Stars](https://img.shields.io/github/stars/yusufm99?style=social) — Pinecone, Neo4j, LangChain, Hugging Face 🤗 |
-| **Contributor Summary** | <img src="https://github-contributor-stats.vercel.app/api?username=yusufm99&limit=5" width="350" alt="Contributor stats"> |
+| **Contributor Summary** | *Loading… available when enough public contributions are indexed* |
 
 > *Rows auto-update as I merge PRs, open issues, and star repos.*
 
