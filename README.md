@@ -1,63 +1,84 @@
-## Hi there 👋
+<!-- ────────────────────────────────────────── HEADER ────────────────────────────────────────── -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!--
-**yusufm99/yusufm99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-### 🛠️ Languages & Tools
+<h1 align="center">Hi there, I'm <a href="https://github.com/yusufm99">Yusuf Mohammed</a> 👋</h1>
+<p align="center"><em>AI/ML Fellow · Research Engineering Intern · ECE @ Rutgers (’27)</em></p>
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/><br>
-    <sub><b>Python</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://jupyter.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="50" height="50"/><br>
-    <sub><b>Jupyter</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://scikit-learn.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="50" height="50"/><br>
-    <sub><b>Scikit-learn</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/><br>
-    <sub><b>C++</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="50" height="50"/><br>
-    <sub><b>C</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="50" height="50"/><br>
-    <sub><b>MATLAB</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="50" height="50"/><br>
-    <sub><b>Hugging Face</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/><br>
-    <sub><b>Git</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/><br>
-    <sub><b>GitHub</b></sub>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/><br>
-    <sub><b>VS Code</b></sub>
-  </a>
+  <!-- TODO: replace with your head-shot URL -->
+  <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="140" style="border-radius:50%" alt="Yusuf Mohammed head-shot">
+</p>
+
+<!-- ────────────────────────────────────────── ABOUT ────────────────────────────────────────── -->
+### 💡 About&nbsp;Me
+- 🤖 **Aspiring AI/ML engineer** weaving ethical, mission-driven tech with real-world impact.  
+- 📚 **B.S. Electrical & Computer Engineering**, Rutgers · Dean’s List.  
+- 🛠 **AI/ML Fellow @ Cornell Tech** & **Research Engineering Intern @ Algoverse** — publishing LLM research to cut hallucination rates.  
+- 🕌 Part-time **Volunteer Imam**; leading hundreds of congregants taught me clear communication & calm leadership.  
+- 🎮 **Fun fact:** I 100 %-completed the entire *Batman Arkham* series!
+
+<!-- ────────────────────────────────────────── TECH STACK ────────────────────────────────────── -->
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,matlab,sklearn,pandas,numpy,git,github,vscode,linux)](https://skillicons.dev)
+
+<!-- Additional tools not (yet) in skillicons -->
+<img src="https://img.shields.io/badge/Cursor-2D2D2D?style=for-the-badge&logo=cursor&logoColor=white"   alt="Cursor badge">
+<img src="https://img.shields.io/badge/Pinecone-4EA8FF?style=for-the-badge&logo=pinecone&logoColor=white" alt="Pinecone badge">
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white"       alt="Neo4j badge">
+
+
+<!-- ─────────────────────────────── FEATURED PROJECT : AI STUDIO STYLE ───────────────────────── -->
+### 🚀 Featured Project — Census Income Classification 📊
+<table>
+  <tr>
+    <!-- Thumbnail cell now shows a large 💵 emoji -->
+    <td width="50%" align="center">
+  <!-- stack-of-dollar-bills emoji as an SVG image -->
+  <img src="https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4b5.svg"
+       width="120px" alt="Money emoji">
+</td>
+    <td>
+      <strong>Goal:</strong> Predict whether individuals earn &gt;$50 K using the 1994 UCI Adult dataset.<br>
+      <strong>Highlights:</strong> end-to-end pipeline · top-50 feature selection · <em>LogReg 84.2 % acc</em> · fairness audit.<br>
+      <strong>Stack:</strong> Python · pandas · scikit-learn · TensorFlow/Keras.<br>
+      👉&nbsp;<a href="https://github.com/yusufm99/ML-Prediction-Assignment" target="_blank">Repository &amp; README</a>
+    </td>
+  </tr>
+</table>
+
+
+
+<!-- ────────────────────────────────── OTHER KEY PROJECTS ────────────────────────────────────── -->
+### 📂 Other Projects
+| Project | What it is | Status |
+|---------|------------|--------|
+| **WRAG Pipeline** | Weighted Retrieval-Augmented Generation framework that re-weights docs via probe agreement & diversity heuristics. | 🔒 Private (research in progress) |
+| **Coming soon** | *Third ML/AI repo to push public* | 🚧 |
+
+<!-- ───────────────────────────────────── STATS & TROPHIES ───────────────────────────────────── -->
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yusufm99&theme=nightowl&show_icons=true&count_private=true" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yusufm99&theme=nightowl" width="48%">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusufm99&theme=nightowl&layout=compact&langs_count=10" width="48%">
+</p>
+
+<!-- ───────────────────────────────────── CERTIFICATIONS ─────────────────────────────────────── -->
+### 🏆 Certifications & Awards
+- **Machine Learning Foundations e-Certificate — Cornell Tech** (expected Aug 2025)
+- IEEE HKN Honor Society · Dean’s List (all semesters)
+
+<!-- ───────────────────────────────────── CONNECT ────────────────────────────────────────────── -->
+### 🤝 Connect with Me
+<a href="mailto:yusufmohammednj@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black"/></a>
+<a href="https://www.linkedin.com/in/yusuf-mohammed-nj/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=black"/></a>
+
+<!-- Visitor Counter -->
+<p align="center">
+  <strong>Visitor Count&nbsp;</strong>
+  <img src="https://profile-counter.deno.dev/yusufm99/count.svg" alt="Visitor counter">
 </p>
 
 
--->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
